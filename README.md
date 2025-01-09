@@ -1,0 +1,2 @@
+# Optimizing Graph Sampling Techniques for Large-Scale Network Analysis
+ This project aims to optimize and evaluate graph sampling techniques used in large-scale network analysis, with a particular focus on preserving key graph properties such as degree distribution, clustering coefficients, and shortest path centrality. By testing various sampling methods across diverse datasets, we aim to enhance the efficiency of graph analysis while ensuring the sampled graph closely mirrors the structural and functional characteristics of the original graph
